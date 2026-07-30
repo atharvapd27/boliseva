@@ -8,7 +8,8 @@ BOLISEVA is an AI-powered, multilingual, voice-first loan lifecycle assistant de
 
 # 📖 Project Overview
 
-Accessing financial services can be challenging for users who are unfamiliar with English interfaces or complex digital forms. BOLISEVA addresses this problem by providing an intuitive voice-driven experience that guides users throughout the entire loan lifecycle.
+Accessing financial services can be challenging for users who are unfamiliar with English interfaces or complex digital forms. 
+Boliseva addresses this problem by providing an intuitive voice-driven experience that guides users throughout the entire loan lifecycle.
 
 The platform combines speech recognition, multilingual support, AI-powered conversational assistance, secure authentication, and cloud-based data management to create an inclusive and accessible digital lending experience.
 
@@ -126,13 +127,19 @@ BOLISEVA
 git clone https://github.com/Bhavyaa110/boliseva.git
 ```
 
-## 2. Install Dependencies
+## 2. Navigate to Project
+
+```bash
+cd boliseva
+```
+
+## 3. Install Dependencies
 
 ```bash
 npm install
 ```
 
-## 3. Configure Environment Variables
+## 4. Configure Environment Variables
 
 Create a `.env` file.
 
@@ -147,7 +154,7 @@ VITE_TWILIO_PHONE_NUMBER=your_twilio_phone
 
 ---
 
-## 4. Start Development Server
+## 5. Start Development Server
 
 ```bash
 npm run dev
