@@ -232,10 +232,10 @@ This project is licensed under the **MIT License**.
 
 # 👨‍💻 Author
 
-**Bhavya Agarwal** & **Atharva Pandey**
+**Atharva Pandey** & **Bhavya Agarwal**
 
-- GitHub: https://github.com/Bhavyaa110
-- LinkedIn: https://linkedin.com/in/bhavya-ag65
+- GitHub: https://github.com/atharvapd27
+- LinkedIn: https://linkedin.com/in/atharva-pd27
 
 ---
 
